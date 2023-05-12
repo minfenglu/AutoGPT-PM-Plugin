@@ -1,0 +1,67 @@
+{
+    "id": "64584a15da35faaabc7ad080",
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": "False",
+      "votes": 0,
+      "viewingMemberVoted": "False",
+      "subscribed": "True",
+      "fogbugz": "",
+      "checkItems": 2,
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": "None",
+      "comments": 0,
+      "attachments": 0,
+      "description": "False",
+      "due": "2023-05-10T00:00:00.000Z",
+      "dueComplete": "True",
+      "start": "2023-05-07T15:00:00.000Z"
+    },
+    "checkItemStates": "None",
+    "closed": "False",
+    "dueComplete": "True",
+    "dateLastActivity": "2023-05-12T00:05:56.207Z",
+    "desc": "",
+    "descData": {
+      "emoji": {}
+    },
+    "due": "2023-05-10T00:00:00.000Z",
+    "dueReminder": -1,
+    "email": "None",
+    "idBoard": "6457300c5e50939a3ef7d958",
+    "idChecklists": [
+      "6459def0385d6ee9c15d2adc"
+    ],
+    "idList": "6457300c5e50939a3ef7d960",
+    "idMembers": [
+      "63f943b734a5329dad76e8e6"
+    ],
+    "idMembersVoted": [],
+    "idShort": 2,
+    "idAttachmentCover": "None",
+    "labels": [],
+    "idLabels": [],
+    "manualCoverAttachment": "False",
+    "name": "Add Unit Tests",
+    "pos": 32767.5,
+    "shortLink": "O5NsWKAR",
+    "shortUrl": "https://trello.com/c/O5NsWKAR",
+    "start": "2023-05-07T15:00:00.000Z",
+    "subscribed": "True",
+    "url": "https://trello.com/c/O5NsWKAR/2-add-unit-tests",
+    "cover": {
+      "idAttachment": "None",
+      "color": "None",
+      "idUploadedBackground": "None",
+      "size": "normal",
+      "brightness": "dark",
+      "idPlugin": "None"
+    },
+    "isTemplate": "False",
+    "cardRole": "None"
+  }

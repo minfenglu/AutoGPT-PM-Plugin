@@ -1,0 +1,19 @@
+name: Trello Configurations
+user_name:
+  minfenglu1
+board_name:
+  Plugin Test Board
+board_lists:
+  - 
+    name: To Do
+    tag: backlog
+  - 
+    name: Doing
+    tag: doing
+  - 
+    name: Done
+    tag: done 
+idle_threshold:
+  4320
+supervisor_user_name:
+  minfenglu1

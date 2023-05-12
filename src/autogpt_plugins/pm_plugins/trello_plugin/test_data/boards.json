@@ -1,0 +1,268 @@
+[
+    {
+      "id": "6457300c5e50939a3ef7d958",
+      "nodeId": "ari:cloud:trello::board/workspace/64572ff124933b9636e18e28/6457300c5e50939a3ef7d958",
+      "name": "Plugin Test Board",
+      "desc": "",
+      "descData": null,
+      "closed": false,
+      "dateClosed": null,
+      "idOrganization": "64572ff124933b9636e18e28",
+      "idEnterprise": null,
+      "limits": {
+        "attachments": {
+          "perBoard": {
+            "status": "ok",
+            "disableAt": 36000,
+            "warnAt": 28800
+          },
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "boards": {
+          "totalMembersPerBoard": {
+            "status": "ok",
+            "disableAt": 1600,
+            "warnAt": 1280
+          },
+          "totalAccessRequestsPerBoard": {
+            "status": "ok",
+            "disableAt": 4000,
+            "warnAt": 3200
+          }
+        },
+        "cards": {
+          "openPerBoard": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerBoard": {
+            "status": "ok",
+            "disableAt": 2000000,
+            "warnAt": 1600000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        },
+        "checklists": {
+          "perBoard": {
+            "status": "ok",
+            "disableAt": 1800000,
+            "warnAt": 1440000
+          },
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 160
+          }
+        },
+        "customFields": {
+          "perBoard": {
+            "status": "ok",
+            "disableAt": 50,
+            "warnAt": 40
+          }
+        },
+        "customFieldOptions": {
+          "perField": {
+            "status": "ok",
+            "disableAt": 50,
+            "warnAt": 40
+          }
+        },
+        "labels": {
+          "perBoard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "lists": {
+          "openPerBoard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          },
+          "totalPerBoard": {
+            "status": "ok",
+            "disableAt": 3000,
+            "warnAt": 2400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        },
+        "reactions": {
+          "perAction": {
+            "status": "ok",
+            "disableAt": 900,
+            "warnAt": 720
+          },
+          "uniquePerAction": {
+            "status": "ok",
+            "disableAt": 17,
+            "warnAt": 14
+          }
+        }
+      },
+      "pinned": false,
+      "starred": false,
+      "url": "https://trello.com/b/kgiAmgji/plugin-test-board",
+      "prefs": {
+        "permissionLevel": "org",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [],
+        "switcherViews": [
+          {
+            "viewType": "Board",
+            "enabled": true,
+            "_id": "6457300c5e50939a3ef7d959",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d959"
+          },
+          {
+            "viewType": "Table",
+            "enabled": true,
+            "_id": "6457300c5e50939a3ef7d95a",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d95a"
+          },
+          {
+            "viewType": "Calendar",
+            "enabled": false,
+            "_id": "6457300c5e50939a3ef7d95b",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d95b"
+          },
+          {
+            "viewType": "Dashboard",
+            "enabled": false,
+            "_id": "6457300c5e50939a3ef7d95c",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d95c"
+          },
+          {
+            "viewType": "Timeline",
+            "enabled": false,
+            "_id": "6457300c5e50939a3ef7d95d",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d95d"
+          },
+          {
+            "viewType": "Map",
+            "enabled": false,
+            "_id": "6457300c5e50939a3ef7d95e",
+            "typeName": "SwitcherViews",
+            "id": "6457300c5e50939a3ef7d95e"
+          }
+        ],
+        "background": "gradient-rainbow",
+        "backgroundColor": "#A869C1",
+        "backgroundImage": "https://d2k1ftgv7pobq7.cloudfront.net/images/backgrounds/gradients/rainbow.svg",
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundBottomColor": "#E774BB",
+        "backgroundTopColor": "#6E5DC6",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+      },
+      "shortLink": "kgiAmgji",
+      "subscribed": false,
+      "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+      },
+      "powerUps": [],
+      "dateLastActivity": "2023-05-07T04:59:15.534Z",
+      "dateLastView": "2023-05-07T05:04:16.467Z",
+      "shortUrl": "https://trello.com/b/kgiAmgji",
+      "idTags": [],
+      "datePluginDisable": null,
+      "creationMethod": "automatic",
+      "ixUpdate": "7",
+      "templateGallery": null,
+      "enterpriseOwned": false,
+      "idBoardSource": null,
+      "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+      ],
+      "idMemberCreator": "63f943b734a5329dad76e8e6",
+      "memberships": [
+        {
+          "idMember": "63f943b734a5329dad76e8e6",
+          "memberType": "admin",
+          "unconfirmed": false,
+          "deactivated": false,
+          "id": "6457300c5e50939a3ef7d963"
+        }
+      ]
+    }
+  ]
