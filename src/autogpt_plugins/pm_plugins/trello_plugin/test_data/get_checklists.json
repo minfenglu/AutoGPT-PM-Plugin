@@ -1,0 +1,72 @@
+[
+    {
+      "id": "64584a44923c446f5eaf47a5",
+      "name": "Milestone One",
+      "idBoard": "6457300c5e50939a3ef7d958",
+      "idCard": "6457301eb285c607736d4634",
+      "pos": 16384,
+      "checkItems": [
+        {
+          "id": "64584a522c505a5016ad0096",
+          "name": "Get API key and API token",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 17384,
+          "state": "complete",
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "64584a44923c446f5eaf47a5"
+        },
+        {
+          "id": "64584a7d3441846962357fbc",
+          "name": "Make dummy API calls",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 34343,
+          "state": "incomplete",
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "64584a44923c446f5eaf47a5"
+        }
+      ]
+    },
+    {
+      "id": "64586144fd6b3a955a989369",
+      "name": "Milestone Two",
+      "idBoard": "6457300c5e50939a3ef7d958",
+      "idCard": "6457301eb285c607736d4634",
+      "pos": 32768,
+      "checkItems": [
+        {
+          "id": "64586159c6344fa62e833123",
+          "name": "Write helper API calls",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 16672,
+          "state": "incomplete",
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "64586144fd6b3a955a989369"
+        },
+        {
+          "id": "6458616b750f4d233f706831",
+          "name": "Implement helper functionalities",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 34014,
+          "state": "incomplete",
+          "due": null,
+          "dueReminder": null,
+          "idMember": null,
+          "idChecklist": "64586144fd6b3a955a989369"
+        }
+      ]
+    }
+  ]
