@@ -49,7 +49,7 @@ ALLOWLISTED_PLUGINS=AutoGPTPMPlugin
 Experience the plugin's capabilities by asking it to clean up the Doing Trello board, generate a summary and email the report (need to config the email plugin)
 
 1. **Configure Auto-GPT:**
-A sample `ai_settins.yaml` 
+A sample `ai_settings.yaml` 
 ```
 ai_goals:
 - Generate status report of all doing tasks by calling get_doing_tasks_status
@@ -68,6 +68,6 @@ api_budget: 0.0
 
 
 ## 🏗️ Collection of Plugins
-- Trello 
+- [Trello](https://github.com/minfenglu/AutoGPT-PM-Plugin/tree/main/src/autogpt_plugins/pm_plugins/trello_plugin)
 - Jira (Under Development)
 - Google Calendar (Under Development)
